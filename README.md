@@ -28,9 +28,8 @@
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,express,mongodb,postgres,redis,git,docker" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,html,css,react,vite,tailwind,nodejs,express,postgres,mongodb,prisma,redis,git,docker" /> </p> <p align="left"> <img src="https://img.shields.io/badge/REST%20APIs-informational?style=flat" /> <img src="https://img.shields.io/badge/JWT%20Auth-black?style=flat&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/Bcrypt-8B0000?style=flat" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" /> <img src="https://img.shields.io/badge/Rate%20Limiting-orange?style=flat" /> <img src="https://img.shields.io/badge/Cookie%20Parser-lightgrey?style=flat" /> <img src="https://img.shields.io/badge/CORS-blue?style=flat" /> <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white" /> </p>
+
 ### GitHub Stats
 
 <p align="left">
