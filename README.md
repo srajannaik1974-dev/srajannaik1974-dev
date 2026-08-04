@@ -31,11 +31,11 @@ Readme · MD
 ### GitHub Stats
  
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srajannaik1974-dev &show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajannaik1974-dev &layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srajannaik1974-dev&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajannaik1974-dev&layout=compact&hide_border=true" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajannaik1974-dev &hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srajannaik1974-dev&hide_border=true" />
 </p>
 ---
  
