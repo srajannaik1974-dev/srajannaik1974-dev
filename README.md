@@ -29,9 +29,8 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,express,mongodb,postgres,redis,git,docker" />
 </p>
-
 ### GitHub Stats
 
 <p align="left">
