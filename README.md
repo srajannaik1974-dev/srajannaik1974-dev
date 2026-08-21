@@ -21,8 +21,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **URL Shortener** and **AI-powered Developer Tools**
-- 🌱 Learning **Generative AI, RAG, and Full-Stack Development**
-- 💬 Ask me about **Java, DSA, MERN Stack, System Design, and GenAI**
+- 🌱 Learning **Agentic AI, RAG, and Full-Stack Development**
+- 💬 Ask me about **Java, DSA, MERN Stack, System Design, and AgenticAI**
 - 🚀 Building projects that solve real-world problems with **AI + Web Development**
 - ⚡ Fun fact: **I enjoy turning hackathon ideas into real products and solving LeetCode problems daily.**
 
